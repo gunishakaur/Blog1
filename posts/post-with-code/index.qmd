@@ -1,0 +1,18 @@
+---
+title: "Welcome to my Blog"
+author: "Gunisha Kaur"
+date: "2025-01-17"
+categories: [tech]
+image: "image.jpg"
+---
+
+# Neural Networks for All: Gateway to the AI World  
+**By Gunisha Kaur**  
+
+Hello! My name is Gunisha Kaur, and I’m currently pursuing a Master of Data Science at the University of British Columbia. Welcome to my blog, where I aim to make the fascinating world of neural networks accessible to everyone.  
+
+Have you ever wondered how Netflix knows what show you’ll love next, or how your phone recognizes your voice so accurately? The answer lies in neural networks—an essential cornerstone of artificial intelligence.  
+
+In this blog, we’ll explore what neural networks are, how they work, and why they are revolutionizing industries from healthcare to entertainment. Whether you’re a complete beginner or have dabbled in AI, this post will serve as your gateway to understanding the basics of neural networks and their real-world applications.  
+
+Let’s embark on this exciting journey into the world of AI! 🚀
